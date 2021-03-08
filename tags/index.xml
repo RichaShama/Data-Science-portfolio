@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My blog</title>
-    <link>https://github.com/RichaShama/Data-Science-portfolio/tags/</link>
+    <link>https://richashama.github.io/Data-Science-portfolio/tags/</link>
     <description>Recent content in Tags on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://github.com/RichaShama/Data-Science-portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://richashama.github.io/Data-Science-portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>scene</title>
-      <link>https://github.com/RichaShama/Data-Science-portfolio/tags/scene/</link>
+      <link>https://richashama.github.io/Data-Science-portfolio/tags/scene/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://github.com/RichaShama/Data-Science-portfolio/tags/scene/</guid>
+      <guid>https://richashama.github.io/Data-Science-portfolio/tags/scene/</guid>
       <description></description>
     </item>
     
