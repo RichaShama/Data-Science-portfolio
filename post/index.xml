@@ -8,21 +8,9 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://richashama.github.io/Data-Science-portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project II: Regression models - Ocean water Temperature Vs Salinity</title>
-      <link>https://richashama.github.io/Data-Science-portfolio/post/chapter-2/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
-      
-      <guid>https://richashama.github.io/Data-Science-portfolio/post/chapter-2/</guid>
-      <description>Overview In this project, I have created different regression models to predict the Ocean Temperature based on the Ocean Salinity.
-Following models were applied to the dataset:
- Simple Linear Regression Polynomial Linear Regression Support Vector Regression Decision Tree Regression Random Forest Regression  Data Used Data has been downloaded from the Kaggle website.
-Data Accuracy Support Vector Regression was the best model to predict the Ocean Temperature based on the Ocean Salinity with an accuracy of 0.</description>
-    </item>
-    
-    <item>
       <title>Project I: Sentiment Analysis - COVID-19 Tweets</title>
       <link>https://richashama.github.io/Data-Science-portfolio/post/chapter-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <pubDate>Thu, 01 Jan 1970 01:33:41 +0100</pubDate>
       
       <guid>https://richashama.github.io/Data-Science-portfolio/post/chapter-1/</guid>
       <description>Overview In this project, I have created a classification system for COVID-19 tweets: positive, negative, neutral.
@@ -30,6 +18,18 @@ I have used Naive Bayes classification and bag-of-words features.
 Data Used Data has been downloaded from the Kaggle website.
 Preprocessing Preprocessing is the first step, before training the data. Following steps has been used to clean the tweets:
  removed urls removed twitter usernames that begins with @ removed hashtags removed digits converted commas etc.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Regression models - Ocean water Temperature Vs Salinity</title>
+      <link>https://richashama.github.io/Data-Science-portfolio/post/chapter-2/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:41 +0100</pubDate>
+      
+      <guid>https://richashama.github.io/Data-Science-portfolio/post/chapter-2/</guid>
+      <description>Overview In this project, I have created different regression models to predict the Ocean Temperature based on the Ocean Salinity.
+Following models were applied to the dataset:
+ Simple Linear Regression Polynomial Linear Regression Support Vector Regression Decision Tree Regression Random Forest Regression  Data Used Data has been downloaded from the Kaggle website.
+Data Accuracy Support Vector Regression was the best model to predict the Ocean Temperature based on the Ocean Salinity with an accuracy of 0.</description>
     </item>
     
   </channel>
