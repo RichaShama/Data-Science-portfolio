@@ -32,5 +32,17 @@ Following models were applied to the dataset:
 Data Accuracy Support Vector Regression was the best model to predict the Ocean Temperature based on the Ocean Salinity with an accuracy of 0.</description>
     </item>
     
+    <item>
+      <title>Project III: Time-Series Forecasting</title>
+      <link>https://richashama.github.io/Data-Science-portfolio/post/chapter-3/</link>
+      <pubDate>Tue, 09 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://richashama.github.io/Data-Science-portfolio/post/chapter-3/</guid>
+      <description>Overview In this project, I have analysed time-series data of air passengers and using machine learning models, I have predicted how the future trend will change for the number of passengers.
+I have used ARINA and SARINA model for forecasting.
+Data Used Data has been downloaded from the Kaggle website.
+Preprocessing  I looked for the different components of the time-series data such as seasonality and trend by using decomposition. Checked for stationarity of the time-series using ADF test and rolling statistics.</description>
+    </item>
+    
   </channel>
 </rss>
